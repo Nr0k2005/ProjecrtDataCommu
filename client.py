@@ -30,4 +30,3 @@ try:
 finally:
     client_socket.close()
     
-#nyjnujnukmikmilmol,ol,ol,
